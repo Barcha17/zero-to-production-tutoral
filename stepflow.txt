@@ -9,3 +9,4 @@
 - init the project on github
 - git commit "First step"
 - git remote add origin https://github.com/Barcha17/zero-to-production-tutoral.git
+- git push -u origin master
