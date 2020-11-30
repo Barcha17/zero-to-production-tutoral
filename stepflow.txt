@@ -1,0 +1,11 @@
+- init project
+- composer init
+- composer install
+- git init
+- add to .gitignore the vendor directory
+- make file public/index.php 
+- make a template with css/fonts/images
+
+- init the project on github
+- git commit "First step"
+- git remote add origin https://github.com/Barcha17/zero-to-production-tutoral.git

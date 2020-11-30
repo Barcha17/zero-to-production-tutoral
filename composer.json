@@ -1,0 +1,12 @@
+{
+    "name": "david-baron/zero-to-production-tutoral",
+    "description": "Tutorial to make an application and to put her in production",
+    "type": "project",
+    "authors": [
+        {
+            "name": "David Baron",
+            "email": "davidbaron@mycodingsoft.com"
+        }
+    ],
+    "require": {}
+}
