@@ -10,3 +10,6 @@
 - git commit "First step"
 - git remote add origin https://github.com/Barcha17/zero-to-production-tutoral.git
 - git push -u origin master
+
+- make the .github\workflows directory (depend of you system)
+- make the php.yaml workflow file (because php in this tutorial)
