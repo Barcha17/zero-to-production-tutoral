@@ -8,5 +8,7 @@
             "email": "davidbaron@mycodingsoft.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.3"
+    }
 }
